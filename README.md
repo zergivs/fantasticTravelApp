@@ -3,7 +3,7 @@
 
 # fantasticTravelApp!
 
-![fantastictravel_logo](https://github.com/zergivs/fantasticTravelApp/assets/122318914/2a7b5fc9-4463-4b13-90c5-5ac36b9fd59f)alt="fantastictravel_logo" width="50%">
+![fantastictravel_logo](https://github.com/zergivs/fantasticTravelApp/assets/122318914/2a7b5fc9-4463-4b13-90c5-5ac36b9fd59f) "fantastictravel_logo" width="50%">
 
 
 Android development Bootcamp project
