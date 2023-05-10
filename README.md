@@ -3,7 +3,7 @@
 
 # fantasticTravelApp!
 
-<img src= "https://github.com/zergivs/fantasticTravelApp/assets/122318914/2a7b5fc9-4463-4b13-90c5-5ac36b9fd59f" alt= "fantasticLogo" width="50%">
+<img src= "https://github.com/zergivs/fantasticTravelApp/assets/122318914/2a7b5fc9-4463-4b13-90c5-5ac36b9fd59f" alt= "fantasticLogo" width="150">
 
 
 Android development Bootcamp project
